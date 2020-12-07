@@ -1,8 +1,8 @@
 ### Hi there 👋
-My github is a bit of a mess between hackathon projects and coding assignments.
-I'm currently in the process of creating writeups for some of my older projects on my website [latheabusaid.com](https://latheabusaid.com). But for now my [Devpost Profile](https://devpost.com/labusaid) may provide you with some more insight.
+My github is a bit of a mess between hackathon projects and coding assignments, but the pinned projects below are good examples of some of my work.
+I'm currently in the process of creating writeups for some of my older projects on my website [latheabusaid.com](https://latheabusaid.com), but for now my [Devpost Profile](https://devpost.com/labusaid) may provide you with some more insight.
 
-I know forked repos also get in the way sometimes, but if it's in my profile I've either worked on it before or am currently working on it right now.
+Any forked repos in my profile I've either worked on in the past or am planning on contributing to in the future.
 
 Thanks for stopping by!
 
