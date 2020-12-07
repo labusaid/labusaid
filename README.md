@@ -1,4 +1,10 @@
 ### Hi there 👋
+My github is a bit of a mess between hackathon projects and coding assignments.
+I'm currently in the process of creating writeups for some of my older projects on my website [latheabusaid.com](https://latheabusaid.com). But for now my [Devpost Profile](https://devpost.com/labusaid) may provide you with some more insight.
+
+I know forked repos also get in the way sometimes, but if it's in my profile I've either worked on it before or am currently working on it right now.
+
+Thanks for stopping by!
 
 <!--
 **labusaid/labusaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
