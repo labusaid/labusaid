@@ -1,6 +1,8 @@
 ### Hi there 👋
 My github is a bit of a mess between hackathon projects and coding assignments, but the pinned projects below are good examples of some of my work.
+
 I highly reccomend you check out my website and look through some of my writeups for some more detail about projects. [latheabusaid.com](https://latheabusaid.com)
+
 My [Devpost Profile](https://devpost.com/labusaid) also has more details about some of my past hackathon submissions.
 
 Any forked repos in my profile I've either worked on in the past or am planning on contributing to in the future.
